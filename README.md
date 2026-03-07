@@ -4,13 +4,16 @@ An all-in-one RF platform built around the **ESP32-WROOM-32U**, combining Wi-Fi,
 
 ## Disclaimer
 
-This project is provided **as-is, with no warranty of any kind**, express or implied. The author(s) accept no liability for any damage, injury, loss of data, regulatory violations, or any other consequence arising from the use, misuse, or inability to use this hardware or associated files.
+This project is provided **as-is, with absolutely no warranty of any kind**, express or implied. The author(s) accept **zero responsibility or liability** for any outcome resulting from the use, assembly, or operation of this hardware - including but not limited to property damage, fire, personal injury, or death.
 
-- **Use entirely at your own risk.**
-- This device includes RF transmission capability. It is **your sole responsibility** to ensure compliance with all applicable local, national, and international radio frequency regulations (e.g. FCC, CE, OFCOM) before operating.
-- **Only operate in a controlled environment** where RF emissions can be properly managed and monitored.
-- This design has **not been certified** for commercial, safety-critical, medical, or regulatory-controlled applications and must not be used in such contexts.
-- The author(s) make no guarantees regarding the accuracy, completeness, or fitness for purpose of the schematic, BOM, or any associated documentation.
+**Use entirely at your own risk. The author(s) have no responsibility whatsoever for anything that goes wrong.**
+
+- **Battery hazard.** This device uses a LiPo battery. LiPo batteries can swell, leak, catch fire, or explode if incorrectly charged, stored, handled, or if the hardware malfunctions. The author(s) accept no responsibility for any damage, injury, or death caused by battery failure or misuse.
+- **RF transmission.** This device transmits RF signals. It is your sole responsibility to comply with all applicable local, national, and international radio frequency regulations (e.g. FCC, CE, OFCOM). Only operate in a controlled environment where RF emissions can be properly managed.
+- **No certification.** This design has not been tested, certified, or approved for any commercial, consumer, safety-critical, or regulatory-controlled application.
+- **No guarantees.** The author(s) make no guarantees regarding the accuracy or fitness for purpose of the schematic, BOM, firmware, or any associated documentation.
+
+**By using, building, or operating this project in any form, you accept full and sole responsibility for all risks and any consequences that arise.**
 
 By using this project in any form, you agree to assume all associated risks and responsibilities.
 
