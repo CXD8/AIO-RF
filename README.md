@@ -1,2 +1,53 @@
-# AIO-RF
-All in one RF device
+# RF Multifunction Device
+
+An all-in-one RF platform built around the **ESP32-WROOM-32U**, combining Wi-Fi, Bluetooth, and sub-GHz RF into a single battery-powered device with a 2.8" LCD display and USB Type-C charging.
+
+## Disclaimer
+
+This project is provided **as-is, with no warranty of any kind**, express or implied. The author(s) accept no liability for any damage, injury, loss of data, regulatory violations, or any other consequence arising from the use, misuse, or inability to use this hardware or associated files.
+
+- **Use entirely at your own risk.**
+- This device includes RF transmission capability. It is **your sole responsibility** to ensure compliance with all applicable local, national, and international radio frequency regulations (e.g. FCC, CE, OFCOM) before operating.
+- **Only operate in a controlled environment** where RF emissions can be properly managed and monitored.
+- This design has **not been certified** for commercial, safety-critical, medical, or regulatory-controlled applications and must not be used in such contexts.
+- The author(s) make no guarantees regarding the accuracy, completeness, or fitness for purpose of the schematic, BOM, or any associated documentation.
+
+By using this project in any form, you agree to assume all associated risks and responsibilities.
+
+## How to Use
+Connect via USB Type-C to flash firmware through the onboard FT232RL. Use the ESP32 to drive the LCD, LEDs, and buttons. The MCP73871 handles LiPo charging automatically when USB is connected.
+
+## Why
+RF development usually requires juggling multiple separate modules and boards. This consolidates everything into one clean, portable device for wireless experimentation and IoT development.
+
+---
+
+## Bill of Materials
+
+| # | References | Part | Package | Qty |
+|---|-----------|------|---------|-----|
+| 1 | C8, C9, C11, C19, C20, C21, C22 | CL10A226MP8NUNE | C0603 | 7 |
+| 2 | C1, C3, C6, C7, C17 | CL10B104KB8NNNC | C0603 | 5 |
+| 3 | C12, C13, C18 | CL10A475KO8NNNC | C0603 | 3 |
+| 4 | C4, C15 | CL21A106KAYNNNE | C0805 | 2 |
+| 5 | C5, C23 | CL10A106KP8NNNC | C0603 | 2 |
+| 6 | C14, C16 | OCR101M0JBK-0605 | CAP-TH_BD6.3-P2.50-D1.0-FD | 2 |
+| 7 | C2 | SPZ1AM471E08000R | CAP-TH_BD6.3-P2.50-D1.0-FD | 1 |
+| 8 | R3, R10, R11, R13 | 0603WAF1002T5E | R0603 | 4 |
+| 9 | R5, R6, R7 | QR0603F470RP05 | R0603 | 3 |
+| 10 | R2, R8 | RC0603FR-0710KL | R0603 | 2 |
+| 11 | R9, R12 | 0603WAF5101T5E | R0603 | 2 |
+| 12 | R1 | 0603WAF2001T5E | R0603 | 1 |
+| 13 | D1 | SMAJ5.0A-C83329 | SMA_L4.3-W2.6-LS5.2-RD | 1 |
+| 14 | U1, U9 | AP2114H-3.3TRG1 | SOT-223_L6.7-W3.5-P2.30-BR | 2 |
+| 15 | U6, U7 | E01-ML01SP4 | WIRELM-TH_E01-ML01SP4 | 2 |
+| 16 | U2 | ESP32-WROOM-32U | ESP32-WROOM-32U | 1 |
+| 17 | U3 | FT232RL | SSOP-28_5.3x10.2mm_P0.65mm | 1 |
+| 18 | U5 | E07-400M10S | COMM-SMD_E07-400M10S | 1 |
+| 19 | U8 | MCP73871-2CCI/ML | QFN-20_L4.0-W4.0-P0.50-BL-EP2.7 | 1 |
+| 20 | SW2, SW3 | TS-1088-AR02016 | SW-SMD_L3.9-W3.0-P4.45 | 2 |
+| 21 | LED1, LED2, LED3 | HL-PST-1608H233W(9000-16000K) | LED0603-RD | 3 |
+| 22 | BT1 | Battery_Cell | JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical | 1 |
+| 23 | H1 | PZ254R-11-05P | HDR-TH_5P-P2.54-H-M-W10.4 | 1 |
+| 24 | LCD1 | HS280S010B | LCD-TH_HS280S010B | 1 |
+| 25 | USB1 | TYPE-C 16P QTWT | USB-TYPE-C-SMD_TYPE-C-16P-QTWT | 1 |
