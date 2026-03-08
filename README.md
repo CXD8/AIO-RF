@@ -58,4 +58,5 @@ RF development usually requires juggling multiple separate modules and boards. T
 
 
 ## Changelog - Images/3D models may not be up to date
+08/03/2026 - Sample firmware released
 08/03/2026 - Traces ran over/under NPTH. This is fixed
