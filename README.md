@@ -8,7 +8,7 @@ This project is provided **as-is, with absolutely no warranty of any kind**, exp
 
 **Use entirely at your own risk. The author(s) have no responsibility whatsoever for anything that goes wrong.**
 
-- **Battery hazard.** This device uses a LiPo battery. LiPo batteries can swell, leak, catch fire, or explode if incorrectly charged, stored, handled, or if the hardware malfunctions. The author(s) accept no responsibility for any damage, injury, or death caused by battery failure or misuse.
+- **Battery hazard.** This device uses a Protected LiPo battery. LiPo batteries can swell, leak, catch fire, or explode if incorrectly charged, stored, handled, or if the hardware malfunctions. The author(s) accept no responsibility for any damage, injury, or death caused by battery failure or misuse.
 - **RF transmission.** This device transmits RF signals. It is your sole responsibility to comply with all applicable local, national, and international radio frequency regulations (e.g. FCC, CE, OFCOM). Only operate in a controlled environment where RF emissions can be properly managed.
 - **No certification.** This design has not been tested, certified, or approved for any commercial, consumer, safety-critical, or regulatory-controlled application.
 - **No guarantees.** The author(s) make no guarantees regarding the accuracy or fitness for purpose of the schematic, BOM, firmware, or any associated documentation.
@@ -19,6 +19,7 @@ By using this project in any form, you agree to assume all associated risks and 
 
 ## How to Use
 Connect via USB Type-C to flash firmware through the onboard FT232RL. Use the ESP32 to drive the LCD, LEDs, and buttons. The MCP73871 handles LiPo charging automatically when USB is connected.
+The charging IC does not have low voltage cut-off. You must use an appropriate protected battery with a BMS. A battery is not required. 
 
 ## Why
 RF development usually requires juggling multiple separate modules and boards. This consolidates everything into one clean, portable device for wireless experimentation and IoT development.
