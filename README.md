@@ -37,7 +37,6 @@ RF development usually requires juggling multiple separate modules and boards. T
 | 6 | C14, C16 | OCR101M0JBK-0605 | CAP-TH_BD6.3-P2.50-D1.0-FD | 2 | [Link](https://www.lcsc.com/product-image/C134847.html) |
 | 7 | C2 | SPZ1AM471E08000R | CAP-TH_BD6.3-P2.50-D1.0-FD | 1 | [Link](https://www.lcsc.com/product-detail/C122242.html) |
 | 8 | R3, R10, R11, R13 | 0603WAF1002T5E | R0603 | 4 | [Link](https://www.lcsc.com/product-detail/C25804.html) |
-
 | 9 | R5, R6, R7 | QR0603F470RP05 | R0603 | 3 | [Link](https://www.lcsc.com/product-detail/C176130.html) |
 | 10 | R2, R8 | RC0603FR-0710KL | R0603 | 2 | [Link](https://www.lcsc.com/product-detail/C98220.html) |
 | 11 | R9, R12 | 0603WAF5101T5E | R0603 | 2 | [Link](https://www.lcsc.com/product-detail/C23186.html) |
@@ -53,5 +52,5 @@ RF development usually requires juggling multiple separate modules and boards. T
 | 21 | LED1, LED2, LED3 | HL-PST-1608H233W(9000-16000K) | LED0603-RD | 3 | [Link](https://www.lcsc.com/product-detail/C219226.html) |
 | 22 | BT1 | Battery_Cell | JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical | 1 | [Link](https://www.lcsc.com/product-detail/C158014.html) |
 | 23 | H1 | PZ254R-11-05P | HDR-TH_5P-P2.54-H-M-W10.4 | 1 | [Link](https://www.lcsc.com/product-detail/C492413.html) |
-| 24 | LCD1 | HS280S010B | LCD-TH_HS280S010B | 1 | — |
+| 24 | LCD1 | HS280S010B | LCD-TH_HS280S010B | 1 | Any 2.8" LCD with touch with pinout as per PCB |
 | 25 | USB1 | TYPE-C 16P QTWT | USB-TYPE-C-SMD_TYPE-C-16P-QTWT | 1 | [Link](https://www.lcsc.com/product-detail/C5187472.html) |
