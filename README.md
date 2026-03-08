@@ -44,7 +44,7 @@ RF development usually requires juggling multiple separate modules and boards. T
 | 13 | D1 | SMAJ5.0A-C83329 | SMA_L4.3-W2.6-LS5.2-RD | 1 | [Link](https://www.lcsc.com/product-detail/C83329.html) |
 | 14 | U1, U9 | AP2114H-3.3TRG1 | SOT-223_L6.7-W3.5-P2.30-BR | 2 | [Link](https://www.lcsc.com/product-image/C150716.html) |
 | 15 | U6, U7 | E01-ML01SP4 | WIRELM-TH_E01-ML01SP4 | 2 | [Link](https://www.lcsc.com/product-detail/C97340.html) |
-| 16 | U2 | ESP32-WROOM-32U | ESP32-WROOM-32U | 1 | [Link](https://www.lcsc.com/product-detail/C701346.html) |
+| 16 | U2 | ESP32-WROOM-32U(E) | ESP32-WROOM-32U | 1 | [Link](https://www.lcsc.com/product-detail/C701346.html) |
 | 17 | U3 | FT232RL | SSOP-28_5.3x10.2mm_P0.65mm | 1 | [Link](https://www.lcsc.com/product-detail/C8690.html) |
 | 18 | U5 | E07-400M10S | COMM-SMD_E07-400M10S | 1 | [Link](https://www.lcsc.com/product-detail/C2965513.html) |
 | 19 | U8 | MCP73871-2CCI/ML | QFN-20_L4.0-W4.0-P0.50-BL-EP2.7 | 1 | [Link](https://www.lcsc.com/product-detail/C5121473.html) |
