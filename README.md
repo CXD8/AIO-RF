@@ -24,7 +24,7 @@ Connect via USB Type-C to flash firmware through the onboard FT232RL. Use the ES
 RF development usually requires juggling multiple separate modules and boards. This consolidates everything into one clean, portable device for wireless experimentation and IoT development.
 
 ---
-
+<img width="1470" height="1398" alt="AIO-RF_transparent" src="https://github.com/user-attachments/assets/72ac0143-e6b9-48be-b1f1-1b1b91233d86" />
 ## Bill of Materials
 
 | # | References | Part | Package | Qty | LCSC |
@@ -37,6 +37,7 @@ RF development usually requires juggling multiple separate modules and boards. T
 | 6 | C14, C16 | OCR101M0JBK-0605 | CAP-TH_BD6.3-P2.50-D1.0-FD | 2 | [Link](https://www.lcsc.com/product-image/C134847.html) |
 | 7 | C2 | SPZ1AM471E08000R | CAP-TH_BD6.3-P2.50-D1.0-FD | 1 | [Link](https://www.lcsc.com/product-detail/C122242.html) |
 | 8 | R3, R10, R11, R13 | 0603WAF1002T5E | R0603 | 4 | [Link](https://www.lcsc.com/product-detail/C25804.html) |
+
 | 9 | R5, R6, R7 | QR0603F470RP05 | R0603 | 3 | [Link](https://www.lcsc.com/product-detail/C176130.html) |
 | 10 | R2, R8 | RC0603FR-0710KL | R0603 | 2 | [Link](https://www.lcsc.com/product-detail/C98220.html) |
 | 11 | R9, R12 | 0603WAF5101T5E | R0603 | 2 | [Link](https://www.lcsc.com/product-detail/C23186.html) |
