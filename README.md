@@ -55,3 +55,7 @@ RF development usually requires juggling multiple separate modules and boards. T
 | 23 | H1 | PZ254R-11-05P | HDR-TH_5P-P2.54-H-M-W10.4 | 1 | [Link](https://www.lcsc.com/product-detail/C492413.html) |
 | 24 | LCD1 | HS280S010B | LCD-TH_HS280S010B | 1 | Any 2.8" LCD with touch with pinout as per PCB |
 | 25 | USB1 | TYPE-C 16P QTWT | USB-TYPE-C-SMD_TYPE-C-16P-QTWT | 1 | [Link](https://www.lcsc.com/product-detail/C5187472.html) |
+
+
+## Changelog - Images/3D models may not be up to date
+08/03/2026 - Traces ran over/under NPTH. This is fixed
