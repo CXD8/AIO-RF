@@ -29,6 +29,8 @@ RF development usually requires juggling multiple separate modules and boards. T
 
 ---
 <img width="1470" height="1398" alt="AIO-RF_transparent" src="https://github.com/user-attachments/assets/72ac0143-e6b9-48be-b1f1-1b1b91233d86" />
+<img width="1470" height="1398" alt="AIO-RF_transparent" src="https://github.com/CXD8/AIO-RF/blob/69bb69bb9760542a037107a34a8dc90d45b893d0/3D_VIEW.PNG" />
+
 ## Bill of Materials
 
 | # | References | Part | Package | Qty | LCSC |
