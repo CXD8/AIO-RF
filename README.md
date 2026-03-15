@@ -53,7 +53,7 @@ RF development usually requires juggling multiple separate modules and boards. T
 | 21 | LED1, LED2, LED3 | HL-PST-1608H233W(9000-16000K) | LED0603-RD | 3 | [Link](https://www.lcsc.com/product-detail/C219226.html) |
 | 22 | BT1 | Battery_Cell | JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical | 1 | [Link](https://www.lcsc.com/product-detail/C158014.html) |
 | 23 | H1 | PZ254R-11-05P | HDR-TH_5P-P2.54-H-M-W10.4 | 1 | [Link](https://www.lcsc.com/product-detail/C492413.html) |
-| 24 | LCD1 | HS280S010B | LCD-TH_HS280S010B | 1 | Any 2.8" LCD with touch with pinout as per PCB |
+| 24 | LCD1 | HS280S010B | LCD-TH_HS280S010B | 1 | [Link]([https://www.lcsc.com/product-detail/C492413.html](https://www.aliexpress.com/item/32795636902.html)) |
 | 25 | USB1 | TYPE-C 16P QTWT | USB-TYPE-C-SMD_TYPE-C-16P-QTWT | 1 | [Link](https://www.lcsc.com/product-detail/C5187472.html) |
 
 
