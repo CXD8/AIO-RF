@@ -3,9 +3,9 @@
 An all-in-one RF platform built around the **ESP32-WROOM-32U**, combining Wi-Fi, Bluetooth, and sub-GHz RF into a single battery-powered device with a 2.8" LCD display and USB Type-C charging.
 
 ## Disclaimer
-**This project is intended for educational and research purposes only**
-**The author accepts no liability for regulatory non-compliance resulting from use of this project**
-**Users are solely responsible for ensuring compliance with all applicable local laws and regulations**
+- **This project is intended for educational and research purposes only**
+- **The author accepts no liability for regulatory non-compliance resulting from use of this project**
+- **Users are solely responsible for ensuring compliance with all applicable local laws and regulations**
 This project is provided **as-is, with absolutely no warranty of any kind**, express or implied. The author(s) accept **zero responsibility or liability** for any outcome resulting from the use, assembly, or operation of this hardware - including but not limited to property damage, fire, personal injury, or death.
 
 **Use entirely at your own risk. The author(s) have no responsibility whatsoever for anything that goes wrong.**
