@@ -3,12 +3,15 @@
 An all-in-one RF platform built around the **ESP32-WROOM-32U**, combining Wi-Fi, Bluetooth, and sub-GHz RF into a single battery-powered device with a 2.8" LCD display and USB Type-C charging.
 
 ## Disclaimer
-
+**This project is intended for educational and research purposes only**
+**The author accepts no liability for regulatory non-compliance resulting from use of this project**
+**Users are solely responsible for ensuring compliance with all applicable local laws and regulations**
 This project is provided **as-is, with absolutely no warranty of any kind**, express or implied. The author(s) accept **zero responsibility or liability** for any outcome resulting from the use, assembly, or operation of this hardware - including but not limited to property damage, fire, personal injury, or death.
 
 **Use entirely at your own risk. The author(s) have no responsibility whatsoever for anything that goes wrong.**
-
-- **Battery hazard.** This device may use a Protected LiPo/Li-ion battery with a BMS. LiPo/Li-ion batteries can swell, leak, catch fire, or explode if incorrectly charged, stored, handled, or if the hardware malfunctions. The author(s) accept no responsibility for any damage, injury, or death caused by battery failure or misuse.
+- **Regulatory Disclaimer**
+This project may use uncertified radio frequency (RF) modules. These components have not been independently tested or certified for compliance such as for FCC (USA), CE (EU), or any other regulatory framework.
+ard.** This device may use a Protected LiPo/Li-ion battery with a BMS. LiPo/Li-ion batteries can swell, leak, catch fire, or explode if incorrectly charged, stored, handled, or if the hardware malfunctions. The author(s) accept no responsibility for any damage, injury, or death caused by battery failure or misuse.
 - **RF transmission.** This device transmits RF signals. It is your sole responsibility to comply with all applicable local, national, and international radio frequency regulations (e.g. FCC, CE, OFCOM). Only operate in a controlled environment where RF emissions can be properly managed.
 - **No certification.** This design has not been tested, certified, or approved for any commercial, consumer, safety-critical, or regulatory-controlled application.
 - **No guarantees.** The author(s) make no guarantees regarding the accuracy or fitness for purpose of the schematic, BOM, firmware, or any associated documentation.
