@@ -53,13 +53,22 @@ RF development usually requires juggling multiple separate modules and boards. T
 | 16 | U2 | ESP32-WROOM-32U(E) | ESP32-WROOM-32U | 1 | [Link](https://www.lcsc.com/product-detail/C701346.html) |
 | 17 | U3 | FT232RL | SSOP-28_5.3x10.2mm_P0.65mm | 1 | [Link](https://www.lcsc.com/product-detail/C8690.html) |
 | 18 | U5 | E07-400M10S | COMM-SMD_E07-400M10S | 1 | [Link](https://www.lcsc.com/product-detail/C2965513.html) |
-| 19 | U8 | MCP73871-2CCI/ML | QFN-20_L4.0-W4.0-P0.50-BL-EP2.7 | 1 | [Link](https://www.lcsc.com/product-detail/C5121473.html) |
+| 19 | U8 | MCP73871-2CCI/ML | QFN-20_L4.0-W4.0-P0.50-BL-EP2.7 | 1 | [Link](https://www.lcsc.com/product-detail/C5121473.html) or [ink](https://www.aliexpress.com/item/1005009931582723.html) |
 | 20 | SW2, SW3 | TS-1088-AR02016 | SW-SMD_L3.9-W3.0-P4.45 | 2 | [Link](https://www.lcsc.com/product-detail/C720477.html) |
 | 21 | LED1, LED2, LED3 | HL-PST-1608H233W(9000-16000K) | LED0603-RD | 3 | [Link](https://www.lcsc.com/product-detail/C219226.html) |
 | 22 | BT1 | Battery_Cell | JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical | 1 | [Link](https://www.lcsc.com/product-detail/C158014.html) |
 | 23 | H1 | PZ254R-11-05P | HDR-TH_5P-P2.54-H-M-W10.4 | 1 | [Link](https://www.lcsc.com/product-detail/C492413.html) |
 | 24 | LCD1 | HS280S010B | LCD-TH_HS280S010B | 1 | [Link]([https://www.lcsc.com/product-detail/C492413.html](https://www.aliexpress.com/item/32795636902.html)) |
 | 25 | USB1 | TYPE-C 16P QTWT | USB-TYPE-C-SMD_TYPE-C-16P-QTWT | 1 | [Link](https://www.lcsc.com/product-detail/C5187472.html) |
+| 26 | - | 18650 PROTECTED | - | 1 | [Link](https://www.aliexpress.com/item/32855314823.html) |
+| 27 | - | JST MALE CONN | - | 1 | [Link](https://www.aliexpress.com/item/1005008783240077.html) |
+| 28 | - | 18AWG WIRE | - | 1 | [Link](https://www.aliexpress.com/item/1005008563402600.html?) |
+| 29 | - | IPEX/U.FL to SMA | - | 1 | [Link](https://www.aliexpress.com/item/1005009812335103.html) |
+| 30 | - | SMA ANTENNA 2.4GHz | - | 1 | [Link](https://www.aliexpress.com/item/1005005535644339.html) |
+| 31 | - | SMA ANTENNA 433MHz | - | 1 | [Link](https://www.aliexpress.com/item/1005009463421918.html) |
+
+
+
 
 
 ## Changelog - Images/3D models may not be up to date
