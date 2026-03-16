@@ -63,8 +63,8 @@ RF development usually requires juggling multiple separate modules and boards. T
 | 26 | - | 18650 PROTECTED | - | 1 | [Link](https://www.aliexpress.com/item/32855314823.html) |
 | 27 | - | JST MALE CONN | - | 1 | [Link](https://www.aliexpress.com/item/1005008783240077.html) |
 | 28 | - | 18AWG WIRE | - | 1 | [Link](https://www.aliexpress.com/item/1005008563402600.html?) |
-| 29 | - | IPEX/U.FL to SMA | - | 1 | [Link](https://www.aliexpress.com/item/1005009812335103.html) |
-| 30 | - | SMA ANTENNA 2.4GHz | - | 1 | [Link](https://www.aliexpress.com/item/1005005535644339.html) |
+| 29 | - | IPEX/U.FL to SMA | - | 4 | [Link](https://www.aliexpress.com/item/1005009812335103.html) |
+| 30 | - | SMA ANTENNA 2.4GHz | - | 3 | [Link](https://www.aliexpress.com/item/1005005535644339.html) |
 | 31 | - | SMA ANTENNA 433MHz | - | 1 | [Link](https://www.aliexpress.com/item/1005009463421918.html) |
 
 
