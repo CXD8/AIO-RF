@@ -21,8 +21,8 @@ ard.** This device may use a Protected LiPo/Li-ion battery with a BMS. LiPo/Li-i
 By using this project in any form, you agree to assume all associated risks and responsibilities.
 
 ## How to Use
-Connect via USB Type-C to flash firmware through the onboard FT232RL. Use the ESP32 to drive the LCD, LEDs, and buttons. The MCP73871 handles LiPo charging automatically when USB is connected.
-The charging IC does not have low voltage cut-off. You must use an appropriate protected battery with a BMS. A battery is not required. 
+Connect via USB Type-C to flash firmware via your preferred flashing software through the onboard FT232RL(typically driver-free). You can also choose to flash directly through the exposed flashing pins and your own chosen flashing device. The MCP73871 handles battery charging automatically when USB is connected. Warning that the onboard battery controller does not have a cut-off threshold, a protected battery must be used. Refer to charging controller MCP73871-2CCI/ML for appropriate battery specifications.
+The charging IC does not have low voltage cut-off. You must use an appropriate protected battery with a BMS. A battery is not required, it can be powered through USB-C.
 
 ## Why
 RF development usually requires juggling multiple separate modules and boards. This consolidates everything into one clean, portable device for wireless experimentation and IoT development.
