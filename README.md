@@ -61,7 +61,7 @@ RF development usually requires juggling multiple separate modules and boards. T
 | 24 | LCD1 | HS280S010B | LCD-TH_HS280S010B | 1 | [Link](https://www.aliexpress.com/item/32795636902.html) |
 | 25 | USB1 | TYPE-C 16P QTWT | USB-TYPE-C-SMD_TYPE-C-16P-QTWT | 1 | [Link](https://www.lcsc.com/product-detail/C5187472.html) |
 | 26 | - | 18650 PROTECTED | - | 1 | [Link](https://www.aliexpress.com/item/32855314823.html) |
-| 27 | - | JST MALE CONN | - | 1 | [Link](https://www.aliexpress.com/item/1005008783240077.html) |
+| 27 | - | JST MALE CONN (NOTE: NEED BOTH MALE AND FEMALE) | - | 1 | [Link]([https://www.aliexpress.com/item/1005008783240077.html](https://www.aliexpress.com/item/1005006447186101.html)) |
 | 28 | - | 18AWG WIRE | - | 1 | [Link](https://www.aliexpress.com/item/1005008563402600.html?) |
 | 29 | - | IPEX/U.FL to SMA | - | 4 | [Link](https://www.aliexpress.com/item/1005009812335103.html) |
 | 30 | - | SMA ANTENNA 2.4GHz | - | 3 | [Link](https://www.aliexpress.com/item/1005005535644339.html) |
